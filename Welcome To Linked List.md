@@ -69,3 +69,16 @@ Head
 |      |         |       | <--------- |      |         |       | <--------- |      |         |       | 
 |      |         |       |            |      |         |       |            |      |         |       | 
 --------------------------            --------------------------            --------------------------
+
+* Advantages Of Linked list
+Doubly Linked List can be traversed in both forward and backward direction.
+The Delete operation in Doubly Linked List is more efficient if pointer to the node to be deleted is given.
+
+* Drawbacks
+Every node required extra space to store previous pointer.[It is possible to implement Doubly Linked List with single pointer]
+
+                                             Implementation Of Linked List
+
+
+                                             
+
