@@ -95,5 +95,5 @@ struct node
       previous=current;
       current=current->next;
     }
-    previous->next=current->next;
+    previous->next=current-> next;
   }
