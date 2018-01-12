@@ -1,6 +1,6 @@
                                                   Welcome To Data Structures
 
-* Data Structure is a particular way of organizing and storing data in a computer which can be accessed and modified efficiently.
+* Data Structure is a particular way of organizing and  storing data in a computer which can be accessed and modified efficiently.
 
 * Topics In Data Structure(DS)
 
